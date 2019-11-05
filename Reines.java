@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Reines {
     static int TAILLE = 8;
     public static void main(String[] args) {
         TAILLE = args.length > 0 ? Integer.parseInt(args[0]) : 8;
